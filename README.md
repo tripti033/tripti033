@@ -23,7 +23,7 @@
 
 ## GitHub Stats
 
-![Tripti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Tripti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tripti033&show_icons=true&theme=dark)
 
 - Total Stars Earned: YOUR_TOTAL_STARS
 - Total Commits: YOUR_TOTAL_COMMITS
@@ -33,6 +33,6 @@
 
 ## Most Used Language
 
-![Tripti's Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![Tripti's Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=tripti033&layout=compact&theme=dark)
 
 
