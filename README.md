@@ -19,3 +19,20 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+# Hi, I'm Tripti!
+
+## GitHub Stats
+
+![Tripti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+- Total Stars Earned: YOUR_TOTAL_STARS
+- Total Commits: YOUR_TOTAL_COMMITS
+- Total PRs: YOUR_TOTAL_PRS
+- Total Issues: YOUR_TOTAL_ISSUES
+- Contributed to (last year): YOUR_CONTRIBUTED_TO_LAST_YEAR
+
+## Most Used Language
+
+![Tripti's Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+
+
