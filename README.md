@@ -1,3 +1,5 @@
+<h1 style="font-family: cursive; color: white; text-align: center;">Hello! I'm Tripti</h1>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -15,10 +17,7 @@
 <div id="views" align="center">
 <img src="https://komarev.com/ghpvc/?username=tripti033&style=flat-square&color=blue" alt=""/>
 </div>
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 
 
 ## GitHub Stats
