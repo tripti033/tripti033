@@ -25,12 +25,6 @@
 
 ![Tripti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tripti033&show_icons=true&theme=dark)
 
-- Total Stars Earned: YOUR_TOTAL_STARS
-- Total Commits: YOUR_TOTAL_COMMITS
-- Total PRs: YOUR_TOTAL_PRS
-- Total Issues: YOUR_TOTAL_ISSUES
-- Contributed to (last year): YOUR_CONTRIBUTED_TO_LAST_YEAR
-
 ## Most Used Language
 
 ![Tripti's Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=tripti033&layout=compact&theme=dark)
