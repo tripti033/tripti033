@@ -52,6 +52,6 @@ Hi! I’m **Tripti Verma**, a final-year B.Tech student in Electronics and Commu
 
 ---
 
-🌐 [Portfolio Website](https://portfolioisthe.netlify.app/)  
+🌐 [Portfolio Website](https://jsxtripti.netlify.app/)  
 🖼️ [Sketchbook Stories](https://sketchbookstories.netlify.app/)  
 📫 Reach me at: tripti033bteceai21@igdtuw.ac.in  
